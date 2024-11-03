@@ -1,0 +1,2 @@
+# Browser-History-Manager
+ Browser History Manager  A Java-based GUI application for managing browser history, bookmarks, and navigation. Built with Swing, it features a simple interface for visiting pages, navigating history (back/forward), bookmarking pages, and viewing or searching through history and bookmarks on-demand. Ideal for demonstrating history tracking and undo/redo functionalities using a doubly linked list.
